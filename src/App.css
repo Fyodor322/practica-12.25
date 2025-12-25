@@ -1,0 +1,503 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: black;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  height: 150px;
+  background-color: #E7DC00;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.logo {
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+nav {
+  margin-left: auto;
+}
+
+ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+li {
+  margin-right: 15px;
+  list-style: none;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+  max-width: 1080px;
+  margin: auto;
+  margin-bottom: 150px;
+  margin-top: 150px;
+  padding: 0 20px;
+}
+
+.inscription_main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: clamp(40px, 8vw, 100px);
+  color: #E7DC00;
+  margin-top: 150px;
+  text-align: center;
+}
+
+h1 {
+  font-size: clamp(40px, 8vw, 100px);
+  color: #E7DC00;
+  margin: 40px 0;
+  text-align: center;
+}
+
+h2 {
+  font-size: clamp(30px, 6vw, 80px);
+  color: #E7DC00;
+  margin: 50px 0;
+  text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: 2px double #E7DC00;
+  color: #E7DC00;
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+  width: 100%;
+}
+
+.index_photo {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.index_photo img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+
+.index_text {
+  color: #E7DC00;
+  margin: 70px 0;
+  font-size: clamp(18px, 3vw, 25px);
+  text-align: center;
+}
+
+footer {
+  background-color: #E7DC00;
+  display: flex;
+  align-items: center;
+  min-height: 150px;
+  padding: 20px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+footer div {
+  text-align: center;
+  margin: 10px;
+}
+
+p {
+  color: #E7DC00;
+}
+
+.menu_kitchen,
+.menu_bar {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px;
+  width: 100%;
+  max-width: 1200px;
+  padding: 0;
+  margin-bottom: 50px;
+}
+
+.kart_tovar {
+  width: 100%;
+  text-decoration: none;
+}
+
+.kart_tovar img {
+  width: 100%;
+  height: auto;
+}
+
+.price_tovar::after {
+  content: ' ₽';
+}
+
+h3,
+h4 {
+  color: #E7DC00;
+  font-size: clamp(20px, 4vw, 30px);
+  text-align: center;
+  padding: 0 20px;
+}
+
+h3::after {
+  content: ' ₽';
+}
+
+.pivivarnia {
+  margin-bottom: 0;
+}
+
+.pivivarnia::after {
+  content: '';
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+button {
+  background-color: #E7DC00;
+  margin-bottom: 40px;
+  font-size: clamp(18px, 3vw, 30px);
+  border: 0px solid;
+  border-radius: 16px;
+  width: 100%;
+  max-width: 300px;
+  padding: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.registration {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 400px;
+}
+
+input {
+  width: 100%;
+  border: 0;
+  background-color: #E7DC00;
+  height: 40px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.checkbox {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
+.checkboxDiv {
+  display: flex;
+  margin: 10px 0;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.registButton {
+  margin: 20px auto;
+}
+
+.signInA {
+  color: #E7DC00;
+  margin: auto;
+  text-align: center;
+}
+
+.checkboxDiv p {
+  margin: 0;
+  font-size: clamp(14px, 2.5vw, 16px);
+}
+
+
+@media (max-width: 360px) {
+  header {
+    height: 120px;
+    padding: 0 10px;
+  }
+  
+  nav ul {
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  li {
+    font-size: 18px;
+    margin-right: 0;
+  }
+  
+  main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 0 10px;
+  }
+  
+  .inscription_main {
+    margin-top: 50px;
+  }
+  
+  .index_photo {
+    flex-direction: column;
+  }
+}
+
+
+@media (min-width: 361px) and (max-width: 767px) {
+  header {
+    height: 130px;
+  }
+  
+  nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  li {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  header {
+    height: 140px;
+  }
+  
+  .menu_kitchen,
+  .menu_bar {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  footer {
+    justify-content: space-between;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .menu_kitchen,
+  .menu_bar {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1280px) {
+  header {
+    height: 150px;
+  }
+  
+  main {
+    margin-top: 150px;
+    margin-bottom: 150px;
+  }
+  
+  .inscription_main {
+    margin-top: 150px;
+  }
+}
+
+@media (min-width: 1920px) {
+  main {
+    max-width: 1400px;
+  }
+  
+  .menu_kitchen,
+  .menu_bar {
+    max-width: 1400px;
+  }
+}
+
+@media (min-width: 2560px) {
+  main {
+    max-width: 1800px;
+  }
+  
+  .menu_kitchen,
+  .menu_bar {
+    max-width: 1800px;
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.profile-container {
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.profile-info {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.profile-avatar {
+  flex-shrink: 0;
+}
+
+.profile-avatar img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #E7DC00;
+}
+
+.profile-details {
+  flex: 1;
+  min-width: 300px;
+}
+
+.profile-view h3 {
+  margin-top: 0;
+}
+
+.profile-view h3::after{
+  content: '';
+}
+
+.profile-view p {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+.profile-buttons {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.profile-buttons button {
+  width: auto;
+  padding: 10px 20px;
+  margin: 0;
+}
+
+.order-history {
+  width: 100%;
+}
+
+.order-history h3 {
+  margin-bottom: 20px;
+}
+
+.order-item {
+  background-color: #333;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  border-left: 4px solid #E7DC00;
+}
+
+.order-item p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  .profile-info {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .profile-avatar img {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .profile-buttons {
+    justify-content: center;
+  }
+}
+
+/* Reviews Styles */
+.reviews-section {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.review-item {
+  background-color: #333;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border-left: 4px solid #E7DC00;
+}
+
+.review-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.review-author {
+  font-weight: bold;
+  color: #E7DC00;
+  font-size: 18px;
+}
+
+.review-rating {
+  color: #E7DC00;
+  font-size: 20px;
+}
+
+.review-date {
+  color: #ccc;
+  font-size: 14px;
+}
+
+.review-text {
+  color: #E7DC00;
+  margin: 0;
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .review-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .review-item {
+    padding: 15px;
+  }
+}
