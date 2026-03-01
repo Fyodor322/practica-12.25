@@ -1612,3 +1612,719 @@ ERROR 2026-03-01 17:09:37,240 basehttp "GET /admin/api/userprofile/ HTTP/1.1" 50
 INFO 2026-03-01 17:10:16,508 autoreload D:\HW\Ivanov\pract Ч копи€\backend\api\migrations\0001_initial.py changed, reloading.
 INFO 2026-03-01 17:10:17,805 autoreload Watching for file changes with StatReloader
 INFO 2026-03-01 17:10:33,426 autoreload Watching for file changes with StatReloader
+INFO 2026-03-01 17:10:43,023 basehttp "GET /admin/api/userprofile/ HTTP/1.1" 200 7849
+INFO 2026-03-01 17:10:43,059 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 17:10:44,767 basehttp "GET /admin/api/userprofile/ HTTP/1.1" 200 7849
+INFO 2026-03-01 17:10:44,804 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 17:10:49,218 basehttp "GET /admin/ HTTP/1.1" 200 9294
+INFO 2026-03-01 17:10:50,498 basehttp "GET /admin/api/userprofile/ HTTP/1.1" 200 7849
+INFO 2026-03-01 17:10:50,540 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 17:10:52,201 basehttp "GET /admin/ HTTP/1.1" 200 9294
+INFO 2026-03-01 17:11:03,367 basehttp "GET /admin/api/userprofile/ HTTP/1.1" 200 7849
+INFO 2026-03-01 17:11:03,415 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 17:11:05,293 basehttp "GET /admin/api/userprofile/add/ HTTP/1.1" 200 12060
+INFO 2026-03-01 17:11:05,319 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-03-01 17:11:05,325 basehttp "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2026-03-01 17:11:05,327 basehttp "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2026-03-01 17:11:05,332 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 17:11:05,332 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-03-01 17:11:05,333 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-03-01 17:11:05,335 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-03-01 17:11:05,339 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-03-01 17:11:05,384 basehttp "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2026-03-01 17:11:10,700 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 13880
+INFO 2026-03-01 17:11:10,734 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 17:11:12,213 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 8190
+INFO 2026-03-01 17:11:12,251 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 17:11:13,069 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 13880
+INFO 2026-03-01 17:11:13,109 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 17:11:23,666 basehttp "GET /admin/api/userprofile/ HTTP/1.1" 200 7849
+INFO 2026-03-01 17:11:23,702 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 17:11:26,274 basehttp "GET /admin/api/userprofile/add/ HTTP/1.1" 200 12060
+INFO 2026-03-01 17:11:26,309 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 17:11:47,359 basehttp "POST /admin/api/userprofile/add/ HTTP/1.1" 302 0
+INFO 2026-03-01 17:11:47,397 basehttp "GET /admin/api/userprofile/ HTTP/1.1" 200 9738
+INFO 2026-03-01 17:11:47,437 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 17:12:02,966 basehttp "GET / HTTP/1.1" 200 126
+INFO 2026-03-01 17:12:07,523 basehttp "GET /api/profile/ HTTP/1.1" 200 241
+INFO 2026-03-01 17:12:07,539 basehttp "GET /api/profile/ HTTP/1.1" 200 241
+WARNING 2026-03-01 17:12:07,574 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:12:07,574 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:12:07,594 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:12:07,595 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 17:12:24,040 basehttp "GET /api/profile/ HTTP/1.1" 200 241
+INFO 2026-03-01 17:12:24,064 basehttp "GET /api/profile/ HTTP/1.1" 200 241
+ERROR 2026-03-01 17:12:24,259 log Internal Server Error: /api/files/
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: file_uploads
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\HW\Ivanov\pract Ч копи€\backend\api\file_views.py", line 98, in list_files
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: file_uploads
+ERROR 2026-03-01 17:12:24,279 basehttp "GET /api/files/ HTTP/1.1" 500 175826
+ERROR 2026-03-01 17:12:24,382 log Internal Server Error: /api/files/
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: file_uploads
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\HW\Ivanov\pract Ч копи€\backend\api\file_views.py", line 98, in list_files
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: file_uploads
+ERROR 2026-03-01 17:12:24,388 basehttp "GET /api/files/ HTTP/1.1" 500 175826
+WARNING 2026-03-01 17:12:33,824 log Forbidden: /api/files/upload/
+WARNING 2026-03-01 17:12:33,824 basehttp "POST /api/files/upload/ HTTP/1.1" 403 45
+WARNING 2026-03-01 17:12:37,575 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:12:37,583 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+ERROR 2026-03-01 17:12:39,409 log Internal Server Error: /api/export/bookings/word/
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: bookings
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\HW\Ivanov\pract Ч копи€\backend\api\export_views.py", line 110, in export_bookings_word
+    for booking in bookings:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: bookings
+ERROR 2026-03-01 17:12:39,425 basehttp "GET /api/export/bookings/word/ HTTP/1.1" 500 173848
+WARNING 2026-03-01 17:13:02,111 log Forbidden: /api/logout/
+WARNING 2026-03-01 17:13:02,111 basehttp "POST /api/logout/ HTTP/1.1" 403 45
+INFO 2026-03-01 17:13:05,501 basehttp "POST /api/login/ HTTP/1.1" 200 88
+INFO 2026-03-01 17:13:05,600 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-01 17:13:05,616 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 17:13:05,634 log Not Found: /api/notifications/
+INFO 2026-03-01 17:13:05,634 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 17:13:05,636 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 17:13:05,666 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 17:13:05,673 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:13:05,675 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+ERROR 2026-03-01 17:13:05,733 log Internal Server Error: /api/files/
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: file_uploads
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\HW\Ivanov\pract Ч копи€\backend\api\file_views.py", line 98, in list_files
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: file_uploads
+ERROR 2026-03-01 17:13:05,741 basehttp "GET /api/files/ HTTP/1.1" 500 175826
+ERROR 2026-03-01 17:13:05,821 log Internal Server Error: /api/files/
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: file_uploads
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\HW\Ivanov\pract Ч копи€\backend\api\file_views.py", line 98, in list_files
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: file_uploads
+ERROR 2026-03-01 17:13:05,833 basehttp "GET /api/files/ HTTP/1.1" 500 175826
+WARNING 2026-03-01 17:13:35,708 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:13:35,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+ERROR 2026-03-01 17:13:41,691 log Internal Server Error: /api/export/bookings/excel/
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: bookings
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\HW\Ivanov\pract Ч копи€\backend\api\export_views.py", line 43, in export_bookings_excel
+    for booking in bookings:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: bookings
+ERROR 2026-03-01 17:13:41,693 basehttp "GET /api/export/bookings/excel/ HTTP/1.1" 500 173266
+INFO 2026-03-01 17:14:01,112 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-01 17:14:01,132 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+ERROR 2026-03-01 17:14:01,221 log Internal Server Error: /api/files/
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: file_uploads
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\HW\Ivanov\pract Ч копи€\backend\api\file_views.py", line 98, in list_files
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: file_uploads
+ERROR 2026-03-01 17:14:01,228 basehttp "GET /api/files/ HTTP/1.1" 500 175826
+ERROR 2026-03-01 17:14:01,324 log Internal Server Error: /api/files/
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: file_uploads
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\HW\Ivanov\pract Ч копи€\backend\api\file_views.py", line 98, in list_files
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: file_uploads
+ERROR 2026-03-01 17:14:01,331 basehttp "GET /api/files/ HTTP/1.1" 500 175826
+WARNING 2026-03-01 17:14:05,617 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:14:05,620 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:14:35,706 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:14:35,721 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:15:05,718 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:15:05,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:15:35,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:15:35,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 17:16:04,721 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 17:16:05,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:16:05,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 17:16:20,041 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-01 17:16:20,055 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-01 17:16:20,071 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 17:16:20,074 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:16:20,074 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 17:16:20,090 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 17:16:20,094 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:16:20,099 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:16:51,005 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:16:51,005 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:17:20,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:17:20,722 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:17:51,054 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:17:51,055 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:18:20,701 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:18:20,701 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
