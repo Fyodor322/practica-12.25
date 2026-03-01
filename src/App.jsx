@@ -9,6 +9,7 @@ import SignIn from './pages/SignIn.jsx';
 import Registration from './pages/Registration.jsx';
 import Profile from './pages/Profile.jsx';
 import Tovar from './pages/Tovar.jsx';
+import Booking from './pages/Booking.jsx';
 import './App.css';
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
           <Route path="/registration" element={<Registration />} />
           <Route path="/profile" element={<Profile />} />
           <Route path="/tovar" element={<Tovar />} />
+          <Route path="/booking" element={<Booking />} />
         </Routes>
         <Footer />
       </div>
