@@ -262,6 +262,12 @@ h4 {
   line-height: 1.6;
 }
 
+.profile-view h3::after,
+.profile-section h3::after,
+.file-upload-section h3::after {
+  content: '';
+}
+
 h3::after {
   content: ' ₽';
 }
@@ -714,5 +720,232 @@ input[type="time"]::-webkit-calendar-picker-indicator {
   
   .table-number {
     font-size: 18px;
+  }
+}
+
+/* Export Buttons */
+.export-buttons {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.btn-export {
+  background: linear-gradient(135deg, #E7DC00 0%, #d4c900 100%);
+  border: none;
+  border-radius: 10px;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(231, 220, 0, 0.3);
+  width: auto;
+  margin: 0;
+}
+
+.btn-export:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(231, 220, 0, 0.5);
+}
+
+/* File Upload */
+.file-upload-section {
+  width: 100%;
+  background: rgba(231, 220, 0, 0.05);
+  padding: 30px;
+  border-radius: 15px;
+  border: 1px solid rgba(231, 220, 0, 0.2);
+}
+
+.file-upload-section h3 {
+  margin-top: 0;
+  text-align: left;
+}
+
+.upload-area {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: 20px 0;
+  padding: 20px;
+  background: rgba(231, 220, 0, 0.03);
+  border-radius: 10px;
+  border: 2px dashed rgba(231, 220, 0, 0.3);
+}
+
+.upload-area input[type="file"] {
+  flex: 1;
+  cursor: pointer;
+}
+
+.files-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.file-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background: rgba(231, 220, 0, 0.03);
+  border-radius: 10px;
+  border: 1px solid rgba(231, 220, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.file-item:hover {
+  border-color: #E7DC00;
+  box-shadow: 0 3px 10px rgba(231, 220, 0, 0.2);
+}
+
+.file-item button {
+  background: #ff4444;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 16px;
+  width: auto;
+  margin: 0;
+  transition: all 0.3s ease;
+}
+
+.file-item button:hover {
+  background: #cc0000;
+  transform: scale(1.1);
+}
+
+/* Notifications */
+.notifications-widget {
+  position: relative;
+}
+
+.notification-bell {
+  background: transparent;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  position: relative;
+  padding: 5px;
+  margin: 0;
+  width: auto;
+  transition: transform 0.3s ease;
+}
+
+.notification-bell:hover {
+  transform: scale(1.1);
+}
+
+.notification-bell .badge {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  background: #ff4444;
+  color: white;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.notifications-dropdown {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  width: 350px;
+  max-height: 500px;
+  overflow-y: auto;
+  background: #1a1a1a;
+  border: 2px solid #E7DC00;
+  border-radius: 10px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  margin-top: 10px;
+}
+
+.notifications-dropdown h4 {
+  margin: 0;
+  padding: 15px;
+  background: #E7DC00;
+  color: #000;
+  border-radius: 8px 8px 0 0;
+  text-align: center;
+}
+
+.notification-item {
+  padding: 15px;
+  border-bottom: 1px solid rgba(231, 220, 0, 0.2);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.notification-item:hover {
+  background: rgba(231, 220, 0, 0.1);
+}
+
+.notification-item.unread {
+  background: rgba(231, 220, 0, 0.05);
+  border-left: 3px solid #E7DC00;
+}
+
+.notification-item strong {
+  display: block;
+  color: #E7DC00;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.notification-item p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #ccc;
+}
+
+.notification-item small {
+  color: #999;
+  font-size: 12px;
+}
+
+.profile-section {
+  width: 100%;
+  background: rgba(231, 220, 0, 0.05);
+  padding: 30px;
+  border-radius: 15px;
+  border: 1px solid rgba(231, 220, 0, 0.2);
+}
+
+.profile-section h3 {
+  margin-top: 0;
+  text-align: left;
+}
+
+@media (max-width: 768px) {
+  .notifications-dropdown {
+    width: 300px;
+    right: -50px;
+  }
+  
+  .export-buttons {
+    flex-direction: column;
+  }
+  
+  .btn-export {
+    width: 100%;
+  }
+  
+  .file-item {
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
   }
 }

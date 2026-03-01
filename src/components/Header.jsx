@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
+import Notifications from './Notifications';
 
 const Header = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -45,6 +46,7 @@ const Header = () => {
           <li><Link to="/about">о нас</Link></li>
           {isLoggedIn ? (
             <>
+              <li><Notifications /></li>
               <li><Link to="/profile">личный кабинет</Link></li>
               <li><button onClick={handleLogout} style={{background: 'none', border: 'none', color: 'black', fontSize: '25px', fontWeight: 'bold', cursor: 'pointer', padding: 0, margin: 0}}>выход</button></li>
             </>
