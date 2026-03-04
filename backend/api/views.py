@@ -58,7 +58,7 @@ def logout_user(request):
     return Response({'message': 'Выход выполнен'}, status=status.HTTP_200_OK)
 
 @csrf_exempt
-@api_view(['GET', 'PUT'])
+@api_view(['GET', 'PUT', 'PATCH'])
 @permission_classes([IsAuthenticated])
 def user_profile(request):
     try:
@@ -67,10 +67,10 @@ def user_profile(request):
         profile = UserProfile.objects.create(user=request.user)
     
     if request.method == 'GET':
-        serializer = UserProfileSerializer(profile)
+        serializer = UserProfileSerializer(profile, context={'request': request})
         return Response(serializer.data)
     
-    elif request.method == 'PUT':
+    elif request.method in ['PUT', 'PATCH']:
         # Обновляем данные пользователя
         user_data = {
             'first_name': request.data.get('first_name', request.user.first_name),
@@ -83,9 +83,16 @@ def user_profile(request):
         request.user.save()
         
         # Обновляем профиль
-        profile.birth_date = request.data.get('birth_date', profile.birth_date)
-        profile.phone = request.data.get('phone', profile.phone)
+        if request.data.get('birth_date'):
+            profile.birth_date = request.data.get('birth_date')
+        if request.data.get('phone'):
+            profile.phone = request.data.get('phone')
+        
+        # Обновляем аватар если загружен
+        if 'avatar' in request.FILES:
+            profile.avatar = request.FILES['avatar']
+        
         profile.save()
         
-        serializer = UserProfileSerializer(profile)
+        serializer = UserProfileSerializer(profile, context={'request': request})
         return Response(serializer.data)

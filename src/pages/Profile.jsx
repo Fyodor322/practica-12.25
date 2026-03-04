@@ -5,6 +5,7 @@ const Profile = () => {
   const [isEditing, setIsEditing] = useState(false);
   const [editData, setEditData] = useState({});
   const [loading, setLoading] = useState(true);
+  const [avatarFile, setAvatarFile] = useState(null);
 
   useEffect(() => {
     fetchProfile();
@@ -35,20 +36,32 @@ const Profile = () => {
 
   const handleSave = async () => {
     try {
+      const formData = new FormData();
+      formData.append('first_name', editData.first_name || '');
+      formData.append('last_name', editData.last_name || '');
+      formData.append('email', editData.email || '');
+      if (editData.birth_date) formData.append('birth_date', editData.birth_date);
+      if (editData.phone) formData.append('phone', editData.phone);
+      if (avatarFile) formData.append('avatar', avatarFile);
+
       const response = await fetch('http://localhost:8000/api/profile/', {
         method: 'PUT',
-        headers: {
-          'Content-Type': 'application/json',
-        },
         credentials: 'include',
-        body: JSON.stringify(editData)
+        body: formData
       });
+      
       if (response.ok) {
         await fetchProfile();
         setIsEditing(false);
+        setAvatarFile(null);
+        alert('Профиль успешно обновлён');
+      } else {
+        const error = await response.json();
+        alert('Ошибка: ' + JSON.stringify(error));
       }
     } catch (err) {
       console.error('Ошибка сохранения:', err);
+      alert('Ошибка сохранения: ' + err.message);
     }
   };
 
@@ -57,6 +70,30 @@ const Profile = () => {
       ...editData,
       [e.target.name]: e.target.value
     });
+  };
+
+  const handleExport = async (format) => {
+    try {
+      const response = await fetch(`http://localhost:8000/api/export/bookings/${format}/`, {
+        credentials: 'include',
+      });
+      if (!response.ok) throw new Error('Ошибка экспорта');
+      const blob = await response.blob();
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `bookings.${format === 'word' ? 'docx' : format}`;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      window.URL.revokeObjectURL(url);
+    } catch (error) {
+      alert('Ошибка при экспорте: ' + error.message);
+    }
+  };
+
+  const handlePrint = () => {
+    window.print();
   };
 
   if (loading) return <main><h1>Загрузка...</h1></main>;
@@ -68,11 +105,17 @@ const Profile = () => {
       <div className="profile-container">
         <div className="profile-info">
           <div className="profile-avatar">
-            <img src="/assets/lk1.jpg" alt="Аватар" />
+            <img src={user.avatar || '/assets/lk1.jpg'} alt="Аватар" />
           </div>
           <div className="profile-details">
             {isEditing ? (
               <div className="registration">
+                <p>Аватар</p>
+                <input
+                  type="file"
+                  accept="image/*"
+                  onChange={(e) => setAvatarFile(e.target.files[0])}
+                />
                 <p>Имя</p>
                 <input
                   type="text"
@@ -123,6 +166,16 @@ const Profile = () => {
                 <button onClick={() => setIsEditing(true)}>Редактировать</button>
               </div>
             )}
+          </div>
+        </div>
+
+        <div className="export-section no-print">
+          <h3>Экспорт данных</h3>
+          <div className="export-buttons">
+            <button onClick={() => handleExport('excel')} className="btn-export">📊 Excel</button>
+            <button onClick={() => handleExport('word')} className="btn-export">📄 Word</button>
+            <button onClick={() => handleExport('pdf')} className="btn-export">📕 PDF</button>
+            <button onClick={handlePrint} className="btn-export">🖨️ Печать</button>
           </div>
         </div>
       </div>

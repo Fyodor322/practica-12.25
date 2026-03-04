@@ -2328,3 +2328,945 @@ WARNING 2026-03-01 17:17:51,054 log Not Found: /api/notifications/
 WARNING 2026-03-01 17:17:51,055 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
 WARNING 2026-03-01 17:18:20,701 log Not Found: /api/notifications/
 WARNING 2026-03-01 17:18:20,701 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:18:50,716 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:18:50,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:19:20,710 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:19:20,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:19:50,712 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:19:50,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:20:29,704 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:20:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:21:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:21:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:22:29,726 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:22:29,726 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:23:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:23:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:24:29,711 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:24:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:25:29,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:25:29,715 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:26:29,716 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:26:29,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:27:29,711 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:27:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:28:29,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:28:29,719 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:29:29,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:29:29,719 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:30:29,714 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:30:29,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:31:29,711 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:31:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:32:29,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:32:29,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:33:29,724 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:33:29,724 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:34:29,710 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:34:29,710 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:35:29,701 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:35:29,701 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:36:29,714 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:36:29,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:37:29,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:37:29,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:38:29,711 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:38:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:39:29,723 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:39:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:40:29,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:40:29,722 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:41:29,723 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:41:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:42:29,714 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:42:29,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:43:29,720 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:43:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:44:29,700 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:44:29,700 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:45:29,710 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:45:29,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:46:29,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:46:29,715 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:47:30,021 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:47:30,021 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:48:30,018 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:48:30,018 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:49:29,706 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:49:29,706 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:50:29,735 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:50:29,735 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:51:29,723 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:51:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 17:52:29,711 log Not Found: /api/notifications/
+WARNING 2026-03-01 17:52:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:00:06,073 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:00:06,073 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:00:29,698 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:00:29,698 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:01:29,708 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:01:29,708 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:02:29,720 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:02:29,720 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:03:29,700 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:03:29,700 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:04:29,707 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:04:29,707 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:05:29,697 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:05:29,697 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:06:29,720 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:06:29,720 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:07:29,711 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:07:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:08:29,720 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:08:29,720 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:09:29,705 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:09:29,705 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:10:29,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:10:29,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:11:29,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:11:29,715 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:12:29,723 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:12:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:13:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:13:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:14:29,724 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:14:29,724 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:15:00,636 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:15:00,636 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:15:20,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:15:20,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:15:50,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:15:50,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:16:29,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:16:29,722 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:17:30,016 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:17:30,016 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:17:50,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:17:50,721 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:18:20,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:18:20,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:19:21,712 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:19:21,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:20:22,699 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:20:22,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:21:23,706 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:21:23,706 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:22:24,702 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:22:24,702 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:23:36,581 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:23:36,581 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:24:29,708 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:24:29,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:25:29,709 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:25:29,725 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:26:29,712 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:26:29,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:27:29,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:27:29,719 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:28:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:28:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:29:29,712 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:29:29,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:30:29,718 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:30:29,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:31:29,722 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:31:29,722 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:32:29,705 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:32:29,705 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:41:45,182 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:41:45,182 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:42:29,707 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:42:29,707 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:43:29,725 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:43:29,725 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:44:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:44:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 18:44:59,740 autoreload Watching for file changes with StatReloader
+INFO 2026-03-01 18:45:01,169 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-01 18:45:01,177 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 18:45:01,182 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:45:01,182 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:45:01,184 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:45:01,184 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 18:45:26,513 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-01 18:45:26,525 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 18:45:29,709 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:45:29,709 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:45:31,187 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:45:31,187 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:45:31,235 log Forbidden: /api/logout/
+WARNING 2026-03-01 18:45:31,235 basehttp "POST /api/logout/ HTTP/1.1" 403 45
+INFO 2026-03-01 18:45:39,277 basehttp "POST /api/login/ HTTP/1.1" 200 88
+INFO 2026-03-01 18:45:39,368 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-01 18:45:39,378 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 18:45:39,400 log Not Found: /api/notifications/
+INFO 2026-03-01 18:45:39,403 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 18:45:39,404 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 18:45:39,423 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 18:45:39,427 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:45:39,427 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:46:09,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:46:09,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:46:29,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:46:29,721 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:46:39,708 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:46:39,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:47:09,382 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:47:09,382 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:47:29,697 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:47:29,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:47:39,376 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:47:39,376 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:48:09,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:48:09,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:48:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:48:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:48:39,714 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:48:39,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:49:09,723 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:49:09,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:49:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:49:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:50:10,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:50:10,715 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:50:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:50:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:51:11,725 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:51:11,725 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:51:29,723 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:51:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:52:12,704 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:52:12,719 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:52:29,722 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:52:29,722 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:53:13,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:53:13,719 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:53:29,723 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:53:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:54:14,708 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:54:14,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:54:29,711 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:54:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:55:15,720 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:55:15,720 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:55:29,718 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:55:29,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:56:16,718 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:56:16,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:56:29,704 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:56:29,710 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:57:17,704 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:57:17,704 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:57:29,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:57:29,721 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:58:18,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:58:18,715 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:58:29,726 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:58:29,726 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:59:19,714 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:59:19,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 18:59:29,741 log Not Found: /api/notifications/
+WARNING 2026-03-01 18:59:29,744 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:00:20,698 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:00:20,698 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:00:29,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:00:29,721 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:01:21,696 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:01:21,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:01:29,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:01:29,720 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:02:22,716 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:02:22,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:02:29,694 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:02:29,709 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:03:23,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:03:23,715 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:03:29,723 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:03:29,724 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:04:24,707 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:04:24,708 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:04:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:04:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:05:25,701 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:05:25,701 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:05:29,724 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:05:29,724 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:06:26,701 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:06:26,701 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:06:29,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:06:29,734 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:07:27,704 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:07:27,704 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:07:29,716 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:07:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:08:28,716 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:08:28,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:08:29,709 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:08:29,709 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:09:29,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:09:29,721 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:09:29,736 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:09:29,736 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:10:25,046 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:10:25,046 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:10:29,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:10:29,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:10:39,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:10:39,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:11:09,706 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:11:09,706 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:11:29,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:11:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:11:39,395 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:11:39,401 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:11:50,720 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:11:50,720 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:12:09,703 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:12:09,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:12:20,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:12:20,719 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:12:39,714 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:12:39,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:13:21,705 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:13:21,705 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:13:29,710 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:13:29,710 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:14:22,700 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:14:22,700 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:14:29,711 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:14:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:15:23,703 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:15:23,703 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:15:29,716 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:15:29,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:27:31,345 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:27:31,345 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:27:31,656 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:27:31,656 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:28:29,728 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:28:29,728 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:28:29,747 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:28:29,747 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:29:29,745 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:29:29,747 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:29:29,758 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:29:29,758 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:30:29,702 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:30:29,702 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:30:29,714 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:30:29,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:31:29,709 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:31:29,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:31:29,725 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:31:29,725 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:32:29,702 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:32:29,707 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:32:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:32:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:33:29,718 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:33:29,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:33:29,734 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:33:29,734 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:34:29,725 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:34:29,725 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:34:29,740 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:34:29,740 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:35:13,914 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:35:13,915 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 19:35:16,652 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-01 19:35:16,662 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-01 19:35:19,881 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-01 19:35:29,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:35:29,719 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:35:39,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:35:39,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:36:09,707 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:36:09,707 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+ERROR 2026-03-01 19:36:20,906 log Internal Server Error: /api/export/bookings/excel/
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: bookings
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "d:\HW\Ivanov\pract Ч копи€\backend\api\export_views.py", line 43, in export_bookings_excel
+    for booking in bookings:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Fyodor.DESKTOP-6KHT772\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: bookings
+ERROR 2026-03-01 19:36:20,919 basehttp "GET /api/export/bookings/excel/ HTTP/1.1" 500 174180
+WARNING 2026-03-01 19:36:29,718 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:36:29,722 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:37:04,015 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:37:04,015 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 19:37:07,177 autoreload D:\HW\Ivanov\pract Ч копи€\backend\api\export_views.py changed, reloading.
+INFO 2026-03-01 19:37:07,900 autoreload D:\HW\Ivanov\pract Ч копи€\backend\api\export_views.py changed, reloading.
+INFO 2026-03-01 19:37:08,189 autoreload Watching for file changes with StatReloader
+INFO 2026-03-01 19:37:08,996 autoreload Watching for file changes with StatReloader
+WARNING 2026-03-01 19:37:10,033 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:37:10,033 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 19:37:14,537 autoreload D:\HW\Ivanov\pract Ч копи€\backend\api\export_views.py changed, reloading.
+INFO 2026-03-01 19:37:14,621 autoreload D:\HW\Ivanov\pract Ч копи€\backend\api\export_views.py changed, reloading.
+INFO 2026-03-01 19:37:15,344 autoreload Watching for file changes with StatReloader
+INFO 2026-03-01 19:37:15,427 autoreload Watching for file changes with StatReloader
+WARNING 2026-03-01 19:37:30,044 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:37:30,044 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 19:37:30,789 basehttp "GET /api/export/bookings/excel/ HTTP/1.1" 200 5213
+WARNING 2026-03-01 19:37:39,385 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:37:39,385 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 19:37:58,702 basehttp "GET /api/export/bookings/word/ HTTP/1.1" 200 36799
+INFO 2026-03-01 19:38:07,280 basehttp "GET /api/export/bookings/pdf/ HTTP/1.1" 200 1908
+WARNING 2026-03-01 19:38:09,390 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:38:09,390 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:38:29,712 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:38:29,715 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:38:39,392 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:38:39,392 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:39:09,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:39:09,720 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:39:29,722 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:39:29,722 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:39:39,392 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:39:39,392 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:40:09,718 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:40:09,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:40:29,727 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:40:29,727 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:40:39,707 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:40:39,707 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:41:27,665 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:41:27,665 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:41:29,718 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:41:29,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:41:39,716 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:41:39,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:42:09,703 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:42:09,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:42:29,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:42:29,720 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:43:10,710 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:43:10,710 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:43:29,709 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:43:29,709 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:44:11,701 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:44:11,701 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:44:29,702 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:44:29,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:45:12,708 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:45:12,708 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:45:29,720 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:45:29,721 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:46:13,710 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:46:13,715 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:46:29,732 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:46:29,732 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:47:14,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:47:14,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:47:29,705 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:47:29,705 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:48:15,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:48:15,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:48:29,712 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:48:29,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:49:16,708 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:49:16,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:49:29,716 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:49:29,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:50:17,709 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:50:17,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:50:29,712 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:50:29,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:51:18,705 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:51:18,705 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:51:29,723 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:51:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:52:19,714 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:52:19,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:52:29,722 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:52:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:53:20,712 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:53:20,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:53:29,708 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:53:29,708 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:54:21,698 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:54:21,698 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:54:29,723 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:54:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:55:22,702 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:55:22,702 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:55:29,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:55:29,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:56:23,710 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:56:23,710 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:56:29,695 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:56:29,695 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:57:24,704 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:57:24,704 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 19:57:29,711 log Not Found: /api/notifications/
+WARNING 2026-03-01 19:57:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:02:38,419 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:02:38,434 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:02:38,451 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:02:38,451 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:03:29,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:03:29,719 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:03:29,727 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:03:29,727 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:04:29,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:04:29,719 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:04:29,727 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:04:29,727 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:05:29,724 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:05:29,724 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:05:29,736 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:05:29,736 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:06:29,718 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:06:29,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:06:29,724 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:06:29,724 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:07:29,712 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:07:29,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:07:29,733 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:07:29,733 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:08:29,709 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:08:29,709 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:08:29,724 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:08:29,724 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:09:29,710 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:09:29,710 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:09:29,726 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:09:29,726 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:10:29,720 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:10:29,720 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:10:29,773 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:10:29,773 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:11:29,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:11:29,713 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:11:29,724 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:11:29,724 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:12:29,713 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:12:29,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:12:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:12:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:13:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:13:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:13:29,732 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:13:29,732 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:14:29,712 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:14:29,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:14:29,729 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:14:29,733 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:15:29,712 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:15:29,712 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:15:29,728 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:15:29,728 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:16:29,709 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:16:29,715 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:16:29,730 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:16:29,731 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:17:29,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:17:29,721 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:17:29,723 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:17:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:18:29,704 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:18:29,705 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:18:29,710 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:18:29,710 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:19:29,707 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:19:29,707 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:19:29,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:19:29,721 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:20:29,184 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:20:29,184 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:20:29,720 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:20:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-01 20:20:38,406 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-03-01 20:20:38,444 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3961
+INFO 2026-03-01 20:20:45,287 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-03-01 20:20:45,313 basehttp "GET /admin/ HTTP/1.1" 200 9296
+INFO 2026-03-01 20:20:49,299 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 8190
+INFO 2026-03-01 20:20:49,345 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2026-03-01 20:20:50,761 basehttp "GET /admin/api/userprofile/ HTTP/1.1" 200 9797
+INFO 2026-03-01 20:20:50,798 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+WARNING 2026-03-01 20:21:29,725 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:21:29,725 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:22:29,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:22:29,719 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:23:29,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:23:29,721 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:24:29,714 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:24:29,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:25:29,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:25:29,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:26:29,720 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:26:29,720 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:27:29,716 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:27:29,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:28:30,021 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:28:30,021 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:29:29,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:29:29,715 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:30:29,709 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:30:29,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:31:29,721 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:31:29,723 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:32:29,724 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:32:29,730 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:33:29,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:33:29,722 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:34:29,718 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:34:29,718 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:35:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:35:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:36:29,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:36:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:37:29,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:37:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:38:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:38:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:39:29,714 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:39:29,714 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:40:29,711 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:40:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:41:29,709 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:41:29,709 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:42:29,710 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:42:29,711 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:43:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:43:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:44:29,717 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:44:29,717 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:51:42,757 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:51:42,758 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:52:09,715 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:52:09,715 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-01 20:52:39,719 log Not Found: /api/notifications/
+WARNING 2026-03-01 20:52:39,721 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-02 15:20:43,657 autoreload Watching for file changes with StatReloader
+INFO 2026-03-02 15:22:12,554 basehttp "GET /api/profile/ HTTP/1.1" 200 241
+INFO 2026-03-02 15:22:12,571 basehttp "GET /api/profile/ HTTP/1.1" 200 241
+WARNING 2026-03-02 15:22:12,834 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:22:12,834 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-02 15:22:12,850 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:22:12,850 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-02 15:22:42,898 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:22:42,899 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-02 15:22:48,379 basehttp "GET /api/export/menu/excel/ HTTP/1.1" 200 5248
+WARNING 2026-03-02 15:23:12,595 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:23:12,597 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-02 15:23:42,578 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:23:42,578 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-02 15:24:12,589 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:24:12,596 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-02 15:24:40,563 basehttp "GET /api/profile/ HTTP/1.1" 200 241
+INFO 2026-03-02 15:24:40,581 basehttp "GET /api/profile/ HTTP/1.1" 200 241
+WARNING 2026-03-02 15:24:42,597 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:24:42,598 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-02 15:24:45,891 basehttp "GET /api/export/bookings/word/ HTTP/1.1" 200 36769
+WARNING 2026-03-02 15:25:05,890 log Forbidden: /api/logout/
+WARNING 2026-03-02 15:25:05,894 basehttp "POST /api/logout/ HTTP/1.1" 403 45
+INFO 2026-03-02 15:25:14,588 basehttp "OPTIONS /api/login/ HTTP/1.1" 200 0
+INFO 2026-03-02 15:25:14,921 basehttp "POST /api/login/ HTTP/1.1" 200 88
+INFO 2026-03-02 15:25:15,081 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-02 15:25:15,081 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-02 15:25:15,093 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:25:15,093 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-02 15:25:15,097 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-02 15:25:15,105 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:25:15,105 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-02 15:25:15,109 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-02 15:25:45,890 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:25:45,906 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-02 15:26:15,893 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:26:15,903 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-02 15:26:45,910 log Not Found: /api/notifications/
+WARNING 2026-03-02 15:26:45,912 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 13:58:09,031 autoreload Watching for file changes with StatReloader
+INFO 2026-03-04 13:59:58,522 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 13:59:58,538 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 13:59:59,032 log Not Found: /api/notifications/
+WARNING 2026-03-04 13:59:59,036 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 13:59:59,048 log Not Found: /api/notifications/
+WARNING 2026-03-04 13:59:59,048 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:00:28,600 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:00:28,611 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:00:33,231 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:00:33,243 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:00:59,097 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:00:59,098 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:01:28,609 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:01:28,611 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:01:59,116 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:01:59,117 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:02:29,018 autoreload D:\HW\Ivanov\pract Ч копи€\backend\api\views.py changed, reloading.
+INFO 2026-03-04 14:02:30,256 autoreload Watching for file changes with StatReloader
+WARNING 2026-03-04 14:02:31,647 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:02:31,652 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:02:59,104 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:02:59,113 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:03:29,115 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:03:29,116 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:04:12,963 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:04:12,963 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:04:29,115 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:04:29,115 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:04:58,642 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:04:58,643 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:05:15,778 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:05:15,800 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:05:15,817 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:05:15,817 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:05:15,837 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:05:15,861 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:05:15,861 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:05:15,879 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:05:45,818 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:05:45,818 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:05:52,516 basehttp "OPTIONS /api/profile/ HTTP/1.1" 200 0
+WARNING 2026-03-04 14:05:52,545 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:05:52,565 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:05:56,384 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:05:56,391 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:06:01,014 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:06:01,016 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:06:02,051 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:06:02,053 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:06:02,246 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:06:02,246 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:06:04,684 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:06:04,684 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+INFO 2026-03-04 14:06:06,811 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:06:06,826 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:06:06,826 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:06:06,839 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:06:06,849 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:06:06,865 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:06:06,873 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:06:06,873 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:06:14,360 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:06:14,360 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:06:18,390 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:06:18,390 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:06:28,157 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:06:28,157 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:06:36,090 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:06:36,090 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:06:36,850 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:06:36,850 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:06:46,696 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:06:46,710 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:07:04,974 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:07:04,974 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:07:05,233 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:07:05,237 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:07:05,479 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:07:05,479 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:07:06,505 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:07:06,505 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:07:06,837 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:07:06,837 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:07:37,143 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:07:37,143 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:08:07,137 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:08:07,145 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:08:37,136 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:08:37,136 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:08:45,170 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:09:07,157 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:09:07,157 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:09:37,151 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:09:37,151 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:10:23,153 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:10:23,161 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:11:45,753 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:11:45,759 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:11:59,641 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:11:59,644 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:11:59,662 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:11:59,666 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:11:59,666 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:11:59,675 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:11:59,678 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:11:59,678 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:12:06,858 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:12:06,858 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:12:13,081 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:12:13,081 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+INFO 2026-03-04 14:13:10,147 autoreload D:\HW\Ivanov\pract Ч копи€\backend\api\views.py changed, reloading.
+INFO 2026-03-04 14:13:11,166 autoreload Watching for file changes with StatReloader
+WARNING 2026-03-04 14:16:30,699 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:16:30,699 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:16:31,377 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:16:31,385 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+INFO 2026-03-04 14:16:35,401 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:16:35,422 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:16:35,430 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:16:35,434 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:16:35,443 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:16:35,454 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:16:35,456 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:16:35,462 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:16:41,304 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:16:41,304 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:17:06,157 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:17:06,157 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:17:36,162 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:17:36,162 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:17:44,276 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:17:44,276 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:17:50,977 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:17:50,977 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:17:57,878 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:17:57,878 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+INFO 2026-03-04 14:19:06,897 autoreload D:\HW\Ivanov\pract Ч копи€\backend\restaurant_backend\settings.py changed, reloading.
+INFO 2026-03-04 14:19:08,049 autoreload Watching for file changes with StatReloader
+WARNING 2026-03-04 14:19:52,662 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:19:52,662 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:19:53,241 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:19:53,241 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+INFO 2026-03-04 14:19:56,276 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:19:56,298 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:19:56,323 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:19:56,325 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:19:56,327 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:19:56,327 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:19:56,341 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:19:56,341 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:19:58,873 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:19:58,873 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:20:11,071 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:20:11,073 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+WARNING 2026-03-04 14:20:33,360 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:20:33,360 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:20:56,317 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:20:56,321 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:21:10,704 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:21:10,720 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:21:14,240 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:21:14,240 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+INFO 2026-03-04 14:21:19,027 basehttp "GET /api/export/bookings/word/ HTTP/1.1" 200 36799
+WARNING 2026-03-04 14:21:26,304 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:21:26,304 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:21:49,697 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:21:49,714 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:21:56,301 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:21:56,301 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:22:26,302 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:22:26,302 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:22:56,316 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:22:56,316 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:23:26,308 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:23:26,308 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:23:37,374 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:23:37,374 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+INFO 2026-03-04 14:23:55,703 autoreload Watching for file changes with StatReloader
+INFO 2026-03-04 14:23:57,159 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:23:57,179 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:23:57,186 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:23:57,202 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:23:57,219 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:23:57,219 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:23:57,235 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:23:57,235 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:24:07,032 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:24:07,050 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:24:27,165 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:24:27,165 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:24:27,184 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:24:27,199 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:24:37,949 log Forbidden: /api/profile/
+WARNING 2026-03-04 14:24:37,949 basehttp "PUT /api/profile/ HTTP/1.1" 403 45
+INFO 2026-03-04 14:25:11,453 autoreload D:\HW\Ivanov\pract Ч копи€\backend\restaurant_backend\settings.py changed, reloading.
+INFO 2026-03-04 14:25:12,533 autoreload Watching for file changes with StatReloader
+WARNING 2026-03-04 14:25:23,490 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:25:23,498 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:25:57,611 autoreload Watching for file changes with StatReloader
+WARNING 2026-03-04 14:26:07,371 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:26:07,380 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:26:08,628 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+INFO 2026-03-04 14:26:08,638 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:26:08,654 log Not Found: /api/notifications/
+INFO 2026-03-04 14:26:08,654 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:26:08,654 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:26:08,670 basehttp "GET /api/profile/ HTTP/1.1" 200 296
+WARNING 2026-03-04 14:26:08,677 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:26:08,678 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:26:15,057 basehttp "PUT /api/profile/ HTTP/1.1" 200 319
+INFO 2026-03-04 14:26:15,072 basehttp "GET /api/profile/ HTTP/1.1" 200 319
+WARNING 2026-03-04 14:26:23,154 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:26:23,154 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:26:30,205 basehttp "PUT /api/profile/ HTTP/1.1" 200 319
+INFO 2026-03-04 14:26:30,224 basehttp "GET /api/profile/ HTTP/1.1" 200 319
+WARNING 2026-03-04 14:26:38,650 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:26:38,650 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:27:05,757 basehttp "PUT /api/profile/ HTTP/1.1" 200 316
+INFO 2026-03-04 14:27:05,773 basehttp "GET /api/profile/ HTTP/1.1" 200 316
+WARNING 2026-03-04 14:27:08,661 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:27:08,664 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:27:23,160 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:27:23,170 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+WARNING 2026-03-04 14:27:39,153 log Not Found: /api/notifications/
+WARNING 2026-03-04 14:27:39,153 basehttp "GET /api/notifications/ HTTP/1.1" 404 4442
+INFO 2026-03-04 14:27:46,484 autoreload D:\HW\Ivanov\pract Ч копи€\backend\api\serializers.py changed, reloading.
+INFO 2026-03-04 14:27:47,413 autoreload Watching for file changes with StatReloader
+INFO 2026-03-04 14:27:52,701 autoreload D:\HW\Ivanov\pract Ч копи€\backend\api\views.py changed, reloading.
+INFO 2026-03-04 14:27:53,575 autoreload Watching for file changes with StatReloader
