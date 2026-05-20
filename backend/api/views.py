@@ -96,3 +96,27 @@ def user_profile(request):
         
         serializer = UserProfileSerializer(profile, context={'request': request})
         return Response(serializer.data)
+
+
+@csrf_exempt
+@api_view(['GET'])
+@permission_classes([IsAuthenticated])
+def user_reviews(request):
+    # Всегда возвращаем тестовые отзывы
+    data = [
+        {
+            'id': 1,
+            'rating': 5,
+            'comment': 'Отличное заведение! Крафтовое пиво просто потрясающее, а ребра тают во рту. Обязательно вернусь!',
+            'created_at': '2024-01-10T18:30:00Z',
+            'menu_item': 'Сет из колбасок к пиву'
+        },
+        {
+            'id': 2,
+            'rating': 4,
+            'comment': 'Уютная атмосфера, вкусная еда. Немного долго ждали заказ, но в целом очень доволен. Рекомендую!',
+            'created_at': '2024-01-05T14:20:00Z',
+            'menu_item': 'Первый шаг Б/А'
+        }
+    ]
+    return Response(data)

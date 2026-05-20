@@ -10,6 +10,7 @@ urlpatterns = [
     path('login/', simple_login, name='login'),
     path('logout/', csrf_exempt(views.logout_user), name='logout'),
     path('profile/', csrf_exempt(views.user_profile), name='user-profile'),
+    path('reviews/', csrf_exempt(views.user_reviews), name='user-reviews'),
     
     # Экспорт
     path('export/bookings/excel/', export_bookings_excel, name='export-bookings-excel'),

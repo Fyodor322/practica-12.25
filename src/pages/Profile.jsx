@@ -6,9 +6,11 @@ const Profile = () => {
   const [editData, setEditData] = useState({});
   const [loading, setLoading] = useState(true);
   const [avatarFile, setAvatarFile] = useState(null);
+  const [reviews, setReviews] = useState([]);
 
   useEffect(() => {
     fetchProfile();
+    fetchReviews();
   }, []);
 
   const fetchProfile = async () => {
@@ -96,6 +98,23 @@ const Profile = () => {
     window.print();
   };
 
+  const fetchReviews = async () => {
+    try {
+      const response = await fetch('http://localhost:8000/api/reviews/', {
+        credentials: 'include'
+      });
+      if (response.ok) {
+        const data = await response.json();
+        console.log('Отзывы:', data);
+        setReviews(data);
+      } else {
+        console.error('Ошибка загрузки отзывов:', response.status);
+      }
+    } catch (err) {
+      console.error('Ошибка загрузки отзывов:', err);
+    }
+  };
+
   if (loading) return <main><h1>Загрузка...</h1></main>;
   if (!user) return <main><h1>Необходимо войти в систему</h1></main>;
 
@@ -177,6 +196,28 @@ const Profile = () => {
             <button onClick={() => handleExport('pdf')} className="btn-export">📕 PDF</button>
             <button onClick={handlePrint} className="btn-export">🖨️ Печать</button>
           </div>
+        </div>
+
+        <div className="reviews-section">
+          <h3>Мои отзывы</h3>
+          {reviews.length === 0 ? (
+            <p>У вас пока нет отзывов</p>
+          ) : (
+            reviews.map(review => (
+              <div key={review.id} className="review-item">
+                <div className="review-header">
+                  <span className="review-author">{review.menu_item}</span>
+                  <span className="review-rating">
+                    {'⭐'.repeat(review.rating)}
+                  </span>
+                  <span className="review-date">
+                    {new Date(review.created_at).toLocaleDateString('ru-RU')}
+                  </span>
+                </div>
+                <p className="review-text">{review.comment}</p>
+              </div>
+            ))
+          )}
         </div>
       </div>
     </main>

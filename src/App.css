@@ -265,6 +265,7 @@ h4 {
 .profile-view h3::after,
 .profile-section h3::after,
 .export-section h3::after,
+.reviews-section h3::after,
 .file-upload-section h3::after {
   content: '';
 }
