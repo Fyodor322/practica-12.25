@@ -1,6 +1,6 @@
 from rest_framework import serializers
 from django.contrib.auth.models import User
-from .models import UserProfile
+from .models import UserProfile, MenuItem
 
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
@@ -78,3 +78,18 @@ class UserRegistrationSerializer(serializers.ModelSerializer):
             phone=phone
         )
         return user
+
+class MenuItemSerializer(serializers.ModelSerializer):
+    image = serializers.SerializerMethodField()
+    
+    class Meta:
+        model = MenuItem
+        fields = ['id', 'name', 'description', 'price', 'image', 'category']
+    
+    def get_image(self, obj):
+        if obj.image:
+            request = self.context.get('request')
+            if request:
+                return request.build_absolute_uri(obj.image.url)
+            return obj.image.url
+        return None

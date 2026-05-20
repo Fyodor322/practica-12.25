@@ -10,6 +10,7 @@ import Registration from './pages/Registration.jsx';
 import Profile from './pages/Profile.jsx';
 import Tovar from './pages/Tovar.jsx';
 import Booking from './pages/Booking.jsx';
+import Delivery from './pages/Delivery.jsx';
 import './App.css';
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
           <Route path="/profile" element={<Profile />} />
           <Route path="/tovar" element={<Tovar />} />
           <Route path="/booking" element={<Booking />} />
+          <Route path="/delivery" element={<Delivery />} />
         </Routes>
         <Footer />
       </div>

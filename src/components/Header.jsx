@@ -42,6 +42,7 @@ const Header = () => {
       <nav>
         <ul>
           <li><Link to="/menu">меню</Link></li>
+          <li><Link to="/delivery">доставка</Link></li>
           <li><Link to="/booking">бронирование</Link></li>
           <li><Link to="/about">о нас</Link></li>
           {isLoggedIn ? (

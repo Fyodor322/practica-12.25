@@ -5,9 +5,9 @@ from rest_framework.permissions import IsAuthenticated, AllowAny
 from rest_framework.response import Response
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.models import User
-from .models import UserProfile
+from .models import UserProfile, MenuItem, Category
 from .serializers import (
-    UserProfileSerializer, UserRegistrationSerializer
+    UserProfileSerializer, UserRegistrationSerializer, MenuItemSerializer
 )
 
 @csrf_exempt
@@ -109,14 +109,46 @@ def user_reviews(request):
             'rating': 5,
             'comment': 'Отличное заведение! Крафтовое пиво просто потрясающее, а ребра тают во рту. Обязательно вернусь!',
             'created_at': '2024-01-10T18:30:00Z',
-            'menu_item': 'Сет из колбасок к пиву'
+            'menu_item': 'Сет из колбасок к коктейлям'
         },
         {
             'id': 2,
             'rating': 4,
             'comment': 'Уютная атмосфера, вкусная еда. Немного долго ждали заказ, но в целом очень доволен. Рекомендую!',
             'created_at': '2024-01-05T14:20:00Z',
-            'menu_item': 'Первый шаг Б/А'
+            'menu_item': 'Первый шаг'
         }
     ]
     return Response(data)
+
+@csrf_exempt
+@api_view(['GET'])
+@permission_classes([AllowAny])
+def menu_list(request):
+    """Получение списка блюд для меню"""
+    try:
+        # Получаем все блюда
+        menu_items = MenuItem.objects.all()
+        serializer = MenuItemSerializer(menu_items, many=True, context={'request': request})
+        return Response(serializer.data)
+    except Exception as e:
+        return Response({'error': str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+@csrf_exempt
+@api_view(['POST'])
+@permission_classes([AllowAny])
+def create_order(request):
+    """Создание заказа на доставку"""
+    try:
+        # В реальном приложении здесь была бы логика создания заказа
+        # и сохранения в базе данных
+        
+        # Для демонстрации просто возвращаем успешный ответ
+        return Response({
+            'message': 'Заказ успешно создан',
+            'order_id': 12345,
+            'estimated_delivery': '30-45 минут'
+        }, status=status.HTTP_201_CREATED)
+        
+    except Exception as e:
+        return Response({'error': str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)

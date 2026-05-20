@@ -51,7 +51,11 @@ const SignIn = () => {
   return (
     <main>
       <h2>Вход</h2>
-      <form className="registration" onSubmit={handleSubmit}>
+      <div className="auth-container">
+        <div className="auth-image">
+          <img src="/assets/regVhod.jpg" alt="Вход" />
+        </div>
+        <form className="registration" onSubmit={handleSubmit}>
         {error && <p style={{color: 'red'}}>{error}</p>}
         
         <p>Логин</p>
@@ -75,6 +79,7 @@ const SignIn = () => {
         <button type="submit" className="registButton">Войти</button>
         <Link to="/registration" className="signInA">Регистрация</Link>
       </form>
+      </div>
     </main>
   );
 };

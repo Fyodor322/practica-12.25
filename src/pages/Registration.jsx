@@ -56,7 +56,11 @@ const Registration = () => {
   return (
     <main>
       <h2>Регистрация</h2>
-      <form className="registration" onSubmit={handleSubmit}>
+      <div className="auth-container">
+        <div className="auth-image">
+          <img src="/assets/regVhod.jpg" alt="Регистрация" />
+        </div>
+        <form className="registration" onSubmit={handleSubmit}>
         {error && <p style={{color: 'red'}}>{error}</p>}
         
         <p>Имя</p>
@@ -134,6 +138,7 @@ const Registration = () => {
         <button type="submit" className="registButton">Регистрация</button>
         <Link to="/signin" className="signInA">Войти</Link>
       </form>
+      </div>
     </main>
   );
 };

@@ -35,19 +35,19 @@ const Menu = () => {
       <div className="menu_kitchen">
         <Link className="kart_tovar" to="/tovar">
           <img src="/assets/bludo2.webp" alt="" />
-          <p className="name_tovar">СЕТ ИЗ КОЛБАСОК К ПИВУ</p>
+          <p className="name_tovar">СЕТ ИЗ КОЛБАСОК</p>
           <p className="disc_tover">Куриные колбаски, свино-говяжьи, охотничьи колбаски с соусами на выбор (410гр.)</p>
           <p className="price_tovar">1100</p>
         </Link>
         <Link className="kart_tovar" to="/tovar">
           <img src="/assets/bludo2.webp" alt="" />
-          <p className="name_tovar">СЕТ ИЗ КОЛБАСОК К ПИВУ</p>
+          <p className="name_tovar">СЕТ ИЗ КОЛБАСОК</p>
           <p className="disc_tover">Куриные колбаски, свино-говяжьи, охотничьи колбаски с соусами на выбор (410гр.)</p>
           <p className="price_tovar">1100</p>
         </Link>
         <Link className="kart_tovar" to="/tovar">
           <img src="/assets/bludo2.webp" alt="" />
-          <p className="name_tovar">СЕТ ИЗ КОЛБАСОК К ПИВУ</p>
+          <p className="name_tovar">СЕТ ИЗ КОЛБАСОК</p>
           <p className="disc_tover">Куриные колбаски, свино-говяжьи, охотничьи колбаски с соусами на выбор (410гр.)</p>
           <p className="price_tovar">1100</p>
         </Link>
