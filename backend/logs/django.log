@@ -5516,3 +5516,423 @@ WARNING 2026-05-20 18:03:27,857 log Not Found: /api/notifications/
 WARNING 2026-05-20 18:03:27,858 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
 WARNING 2026-05-20 18:04:28,864 log Not Found: /api/notifications/
 WARNING 2026-05-20 18:04:28,865 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:05:29,856 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:05:29,857 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:05:56,336 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:05:56,337 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:06:26,857 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:06:26,857 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:06:50,567 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:06:50,567 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:06:50,585 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:06:50,586 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:06:50,592 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:06:50,593 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:06:50,866 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:06:50,866 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:06:50,875 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:06:50,877 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:07:20,846 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:07:20,846 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:07:50,593 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:07:50,596 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:08:20,589 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:08:20,604 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:08:26,385 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:08:26,388 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+INFO 2026-05-20 18:08:26,394 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+ERROR 2026-05-20 18:08:26,401 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:08:26,405 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+INFO 2026-05-20 18:08:26,405 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:08:26,428 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:08:26,429 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:08:26,444 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:08:26,445 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:08:56,858 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:08:56,860 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:09:05,767 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:09:05,769 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+INFO 2026-05-20 18:09:05,774 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+ERROR 2026-05-20 18:09:05,782 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:09:05,786 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+INFO 2026-05-20 18:09:05,795 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:09:05,801 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:09:05,802 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:09:05,812 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:09:05,813 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:09:24,319 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:09:24,320 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:09:36,175 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:09:36,175 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:10:05,876 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:10:05,877 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:10:31,991 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:10:32,001 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:10:32,020 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:10:32,020 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:10:32,029 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:10:32,030 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:10:32,287 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:10:32,289 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:10:32,293 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:10:32,295 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:11:02,864 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:11:02,865 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:11:21,042 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:11:21,049 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+INFO 2026-05-20 18:11:21,053 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+ERROR 2026-05-20 18:11:21,060 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:11:21,063 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+INFO 2026-05-20 18:11:21,077 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:11:21,081 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:11:21,082 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:11:21,087 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:11:21,087 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:11:33,965 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:11:33,967 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:11:33,973 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:11:33,974 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:11:51,857 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:11:51,858 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:12:11,906 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:12:11,906 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:12:21,848 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:12:21,848 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:12:51,077 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:12:51,080 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:13:21,066 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:13:21,066 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:13:41,253 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:13:41,254 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:13:41,260 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:13:41,261 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:13:51,856 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:13:51,856 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:14:21,854 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:14:21,855 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:14:51,856 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:14:51,857 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:15:50,851 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:15:50,851 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:16:50,859 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:16:50,861 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:17:05,699 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:17:05,709 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:17:05,716 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:17:05,716 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:17:05,723 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:17:05,724 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:17:08,237 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:17:08,240 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:17:08,246 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:17:08,249 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:17:35,853 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:17:35,853 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:17:55,882 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:17:55,885 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+INFO 2026-05-20 18:17:55,888 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+ERROR 2026-05-20 18:17:55,898 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:17:55,902 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+INFO 2026-05-20 18:17:55,918 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:17:55,926 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:17:55,927 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:17:55,941 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:17:55,942 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:18:03,137 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:18:03,152 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:18:03,173 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:18:03,175 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:18:03,181 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:18:03,181 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:18:33,152 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:18:33,152 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:18:38,949 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:18:38,964 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:18:38,977 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:18:38,978 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:18:38,987 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:18:38,987 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:18:54,225 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:18:54,239 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:18:54,256 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:18:54,256 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:18:54,280 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:18:54,281 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:18:57,859 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:18:57,931 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:18:57,945 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:18:57,946 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:18:57,965 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:18:57,966 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:19:11,092 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:19:11,107 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:19:11,125 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:19:11,128 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:19:11,145 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:19:11,145 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:19:41,102 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:19:41,102 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:20:11,859 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:20:11,861 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:20:41,870 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:20:41,872 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:21:11,848 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:21:11,848 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:21:41,862 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:21:41,865 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:22:11,861 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:22:11,861 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:22:41,874 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:22:41,875 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:23:42,867 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:23:42,867 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:24:43,859 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:24:43,859 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:25:34,968 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:25:34,969 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:25:41,847 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:25:41,847 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:26:12,175 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:26:12,175 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:26:50,852 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:26:50,852 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:27:51,178 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:27:51,191 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:28:50,866 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:28:50,866 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:29:50,875 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:29:50,875 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:30:50,868 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:30:50,869 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:30:58,205 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:30:58,221 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:30:58,240 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:30:58,242 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:30:58,258 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:30:58,259 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:31:28,859 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:31:28,861 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:31:58,863 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:31:58,865 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:32:10,290 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:32:10,290 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:32:10,298 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:32:10,299 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+INFO 2026-05-20 18:32:13,794 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:32:13,804 basehttp "GET /api/reviews/ HTTP/1.1" 200 586
+INFO 2026-05-20 18:32:13,816 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:32:13,825 basehttp "GET /api/reviews/ HTTP/1.1" 200 586
+WARNING 2026-05-20 18:32:28,217 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:32:28,217 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:32:28,538 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:32:28,552 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:32:28,567 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:32:28,567 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:32:28,594 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:32:28,595 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:32:45,619 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:32:45,636 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:32:45,644 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:32:45,645 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:32:45,654 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:32:45,655 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:33:15,656 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:33:15,657 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:33:17,416 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:33:17,433 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:33:17,443 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:33:17,443 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:33:17,460 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:33:17,482 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:33:47,446 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:33:47,447 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:33:50,209 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:33:50,224 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:33:50,241 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:33:50,241 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:33:50,254 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:33:50,254 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:33:56,910 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:33:56,912 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:33:56,917 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:33:56,918 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:34:20,854 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:34:20,854 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:34:50,230 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:34:50,231 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:34:52,124 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:34:52,132 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:34:52,145 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:34:52,146 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:34:52,153 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:34:52,153 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:35:22,877 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:35:22,878 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:35:52,871 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:35:52,871 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:36:22,861 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:36:22,863 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:36:52,860 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:36:52,863 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:37:22,873 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:37:22,874 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:37:52,868 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:37:52,868 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:37:55,610 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:37:55,610 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:37:55,610 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:37:55,617 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:38:22,850 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:38:22,863 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:38:52,866 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:38:52,867 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:39:22,866 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:39:22,867 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:39:34,619 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:39:34,619 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:39:34,628 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:39:34,628 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:39:42,899 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:39:42,900 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:39:42,906 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:39:42,908 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:39:52,468 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:39:52,468 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:40:22,846 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:40:22,846 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:40:52,867 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:40:52,869 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:41:22,860 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:41:22,860 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:41:52,860 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:41:52,861 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:42:00,811 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:42:00,812 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:42:00,817 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:42:00,819 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:42:22,157 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:42:22,158 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:42:23,480 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:42:23,488 basehttp "GET /api/reviews/ HTTP/1.1" 200 586
+INFO 2026-05-20 18:42:23,501 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:42:23,510 basehttp "GET /api/reviews/ HTTP/1.1" 200 586
+INFO 2026-05-20 18:42:41,548 basehttp "GET /api/reviews/ HTTP/1.1" 200 586
+INFO 2026-05-20 18:42:41,552 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:42:41,558 basehttp "GET /api/reviews/ HTTP/1.1" 200 586
+INFO 2026-05-20 18:42:41,564 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:42:45,799 basehttp "POST /api/logout/ HTTP/1.1" 200 41
+ERROR 2026-05-20 18:43:10,974 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:43:10,975 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:43:10,980 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:43:10,981 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:43:26,197 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:43:26,197 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:43:26,203 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:43:26,203 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+INFO 2026-05-20 18:43:36,903 basehttp "POST /api/login/ HTTP/1.1" 200 88
+INFO 2026-05-20 18:43:37,140 basehttp "GET /api/reviews/ HTTP/1.1" 200 586
+INFO 2026-05-20 18:43:37,140 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:43:37,156 basehttp "GET /api/reviews/ HTTP/1.1" 200 586
+INFO 2026-05-20 18:43:37,175 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:43:37,185 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:43:37,192 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 18:43:37,194 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 18:43:37,216 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 18:43:37,216 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:43:37,216 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:43:39,024 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:43:39,025 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:43:39,030 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:43:39,032 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:43:43,608 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:43:43,609 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:43:43,614 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:43:43,615 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:44:07,864 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:44:07,865 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:44:37,873 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:44:37,873 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:44:54,716 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:44:54,717 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:44:54,723 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:44:54,724 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:45:00,939 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:45:00,940 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:45:00,945 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:45:00,945 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:45:07,856 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:45:07,856 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 18:45:23,595 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:45:23,596 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 18:45:23,602 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 18:45:23,604 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+WARNING 2026-05-20 18:45:37,850 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:45:37,850 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:46:08,176 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:46:08,176 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:46:37,854 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:46:37,854 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:47:07,855 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:47:07,870 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:47:50,853 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:47:50,853 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:48:50,857 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:48:50,857 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:49:50,857 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:49:50,857 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:50:50,868 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:50:50,868 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:51:50,848 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:51:50,862 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:52:50,894 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:52:50,894 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:53:50,870 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:53:50,870 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:54:50,864 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:54:50,864 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:55:50,849 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:55:50,849 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:56:50,860 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:56:50,860 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:57:50,857 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:57:50,857 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:58:50,856 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:58:50,856 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 18:59:50,850 log Not Found: /api/notifications/
+WARNING 2026-05-20 18:59:50,850 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:00:50,862 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:00:50,862 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:01:50,871 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:01:50,871 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:02:50,852 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:02:50,852 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:03:50,873 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:03:50,888 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:04:50,845 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:04:50,845 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:05:50,868 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:05:50,868 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:06:50,848 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:06:50,848 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:07:50,874 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:07:50,874 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:08:50,869 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:08:50,869 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:09:51,175 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:09:51,175 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:10:50,860 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:10:50,860 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+INFO 2026-05-20 19:11:06,647 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+INFO 2026-05-20 19:11:06,663 basehttp "GET /api/profile/ HTTP/1.1" 200 339
+WARNING 2026-05-20 19:11:06,682 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:11:06,682 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+WARNING 2026-05-20 19:11:06,694 log Not Found: /api/notifications/
+WARNING 2026-05-20 19:11:06,694 basehttp "GET /api/notifications/ HTTP/1.1" 404 4975
+ERROR 2026-05-20 19:11:06,958 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 19:11:06,958 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 19:11:06,965 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 19:11:06,967 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 19:11:14,996 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 19:11:14,998 basehttp "GET /api/menu/ HTTP/1.1" 500 37
+ERROR 2026-05-20 19:11:15,000 log Internal Server Error: /api/menu/
+ERROR 2026-05-20 19:11:15,002 basehttp "GET /api/menu/ HTTP/1.1" 500 37
